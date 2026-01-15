@@ -103,9 +103,6 @@ For each GuardDuty finding, the workflow automatically creates a Jira issue cont
 
 Jira serves as the system of record for incident tracking, collaboration, and auditability.
 
-**Screenshot: Individual Jira incident**  
-![Jira Incident Detail](screenshots/jiraincidentdetail.png)
-
 **Screenshot: Jira SOC alert board**  
 ![Jira Alert Board](screenshots/jiraalerts.png)
 
